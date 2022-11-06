@@ -1,0 +1,11 @@
+{
+    "productosTablets":[
+        {"id":35 , "nombre":"APPLE IPAD 9GEN 10.2 WIFI 64GB", "imagen":"multimedia/imagenes/ipad-air-9-gen.png", "precio":400,"stock":5},
+        {"id":36, "nombre":"APPLE IPAD PRO 3GEN 11 128GB", "imagen":"multimedia/imagenes/ipad-pro-m1.jpg", "precio":1000,"stock":5},
+        {"id":37, "nombre":"APPLE IPAD PRO 5GEN 12.9 WIFI", "imagen":"multimedia/imagenes/apple-ipad-pro-12.9.jpg", "precio":1200,"stock":5},
+        {"id":38, "nombre":"APPLE IPAD PRO 3GEN 11 256GB", "imagen":"multimedia/imagenes/Apple-iPad-Pro-11-256.png", "precio":1000,"stock":5},
+        {"id":39, "nombre":"APPLE IPAD 9GEN 10.2 WIFI 128GB", "imagen":"multimedia/imagenes/apple-ipad-GEN-9.png", "precio":600,"stock":5},
+        {"id":40, "nombre":"APPLE IPAD MINI GEN6 8.3 256GB", "imagen":"multimedia/imagenes/ipad-mini.jpg", "precio":1100,"stock":5},
+        {"id":41, "nombre":"IPAD AIR 4GEN 10.9 256GB GRIS", "imagen":"multimedia/imagenes/ipad-air-10.9.jpg", "precio":900,"stock":5},
+        {"id":42, "nombre":"IPAD AIR 5GEN 10.9 256GB GRIS", "imagen":"multimedia/imagenes/IPAD-AIR-5GEN.jpg", "precio":1200,"stock":5} ]
+}
